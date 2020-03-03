@@ -1,0 +1,10 @@
+.subheadline{
+    width: 350px;
+}
+
+.box{
+    background-color: transparent; 
+    border-color: gray; 
+    color: gray;
+    padding-left: 30px;
+}
