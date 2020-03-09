@@ -12,6 +12,6 @@ function recurse(n){
 }
 
 function myFunction() {
-    let newvar = document.getElementById('demo').value;
-    document.getElementById('demo1').innerHTML = recurse(newvar) ;
+    let input = document.getElementById('input').value;
+    document.getElementById('output').innerHTML = recurse(input) ;
   }
